@@ -63,6 +63,8 @@
 
 - Live Demo Link - ([Covid-19-worldometers](https://worldometers.onrender.com/))
 
+## 🚀 [Presentation Video](https://www.loom.com/share/32bf4f17b78f40b9adb0ec8b945f63f8)
+
 ## 🚀 Project Update Details
 
 - Completed Project
