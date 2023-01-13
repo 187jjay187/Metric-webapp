@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-
-<div align="center">
-
-  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -69,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Demo Link - ([Covid-19-worldometers]())
+- Live Demo Link - ([Covid-19-worldometers](https://worldometers.onrender.com/))
 
 ## 🚀 Project Update Details
 
