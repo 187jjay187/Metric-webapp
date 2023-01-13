@@ -10,7 +10,7 @@ const fetchStats = (payload) => ({
   payload,
 });
 
-// create pure function and recieve previous state
+// create function and recieve previous state
 
 const covidReducer = (state = initialState, action = { type: 'action' }) => {
   switch (action.type) {
